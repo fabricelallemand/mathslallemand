@@ -66,6 +66,23 @@ Dans ce code :
 * la lettre `k` désigne une **variable** qui sert de compteur : elle prend successivement les valeurs entières de 1 à 10 ;
 * la commande nommée `commande3()` n'est exécutée qu'une fois, après les 10 répétitions : en effet, seul **le bloc** de commandes matérialisé par l'espacement à droite (on parle d'**indentation**) est répété.
 
+En language Python, le même code s'écrit de la manière suivante :
+
+<pre class="brush: python">
+for k in range(10) :
+    commande1()
+	commande2()
+commande3()
+</pre>
+
+<div class="alert alert-danger">
+Le bloc de commandes à répéter est :
+
+* introduit par les deux points `:` à la fin de la ligne `for` ;
+* matérialisé par une **indentation** de quatre espaces en début de ligne ;
+* terminé dès qu'une ligne dans la suite du programme n'est plus indentée. 
+</div>
+
 Voici donc maintenant une exigence plus précise pour ce premier défi : 
 
 <div class="alert alert-info">
