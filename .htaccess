@@ -1,0 +1,12 @@
+## make sure nobody gets the htaccess, README, COPYING or VERSION files
+<Files ~ "^([\._]ht|README$|VERSION$|COPYING$)">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<IfModule mod_security.c>
+SecFilterEngine Off
+SecFilterScanPOST Off
+</IfModule>
+
+ErrorDocument 404 /erreur404.php

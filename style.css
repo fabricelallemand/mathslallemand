@@ -1,0 +1,8 @@
+div .syntaxhighlighter {
+	display: block;
+	margin: 0px auto !important;
+	width: 75% !important;
+	border-radius: 5px;
+	padding: 5px;
+	margin-bottom: 10px !important;
+}

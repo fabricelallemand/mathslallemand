@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+        <title>Radiochronologie : les mathématiques au service de la géologie</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">figure { margin-left: auto;  margin-right: auto }</style>
+ 
+
+  <?php include "header.php" ?>  
+ 
+    
+<!--Titre de la page -->
+
+<div class="container">
+            <div class = "page-header">
+                <h1 class="title">La page demandée n'a pas été trouvée</em></h1>
+                                                <h3 class="date">Dernière révision : mars 2014</h3>
+                            </div>
+<!-- Table des matières (optionnel) -->
+
+
+<!-- Contenu -->
+            
+<p>Ce site étant en cours de réorganisation, les adresses des pages peuvent changer, ce qui explique peut-être pourquoi vous arrivez à cette page.</p>
+
+<p>Mais heureusement, rien n'a été effacé et les pages de la version précédente du site sont toujours accessibles.<br/>
+
+Pour retrouver la page que vous cherchez, allez voir du côté de : </p>
+
+<ul>
+    <li><a href="http://www.mathslallemand.fr/doku.php">Le site sous DokuWiki.</li>
+    <li><a href="http://www.mathslallemand.fr/wp/">Le site sous Wordpress.</li>
+</ul>
+
+<!-- fin de la balise div container dans le footer -->
+
+
+<?php include "footer.php" ?>
